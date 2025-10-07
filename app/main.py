@@ -15,3 +15,6 @@ app = FastAPI(
 @app.get("/")
 def root():
     return {"message":"Welcome to first project"}
+
+
+print("My Main File is running")
