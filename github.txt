@@ -23,3 +23,10 @@ git add <filename> --> Add particular file to staging
 Local[Unstaging] --> Staging --> Commit
 
 git status --> To see your modified/staged files
+
+git log --> To View the commit history
+git stash --> Saves your modified files [ Staging and Unstaging Changes] and reverts your working 
+directory to match the last commit
+
+git stash apply stash@{id_number} --> Recover the old stash file
+git stash drop stash@{id_number} --> Drop the particular stash id
