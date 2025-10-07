@@ -30,3 +30,6 @@ directory to match the last commit
 
 git stash apply stash@{id_number} --> Recover the old stash file
 git stash drop stash@{id_number} --> Drop the particular stash id
+
+git clone <github_url>
+git clone <github_url> .
