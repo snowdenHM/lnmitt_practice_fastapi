@@ -1,0 +1,21 @@
+1. Query Parameters ✅
+2. Path Parameters ✅
+3. CRUD ✅
+4. SQLAlchemy ✅
+5. Pydantic ✅
+6. Authentication [Login and Logout]
+7. Dependency Injection
+8. Middleware ✅
+9. Logging
+10. Folder Structure ✅
+11. Table Relationship [One-One, Many-One, Many-Many, One-Many]
+12. Multi-Threading and Multi-Processing
+13. Cryptography[Hashing --  SHA256, MD5] and Steganography.
+14. Github and Markdown Programming
+15. Environment Variables [python-dotenv] ✅
+
+
+
+Task:- psutil package [RAM,Hardisk,Core,Processor] 
+yield vs return
+M V C -- model,view and controller --> pattern backend project organize
