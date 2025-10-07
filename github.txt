@@ -1,0 +1,18 @@
+Git --> Version Control System which track all changes to your files.
+Github --> Cloud Based Platform which manage git repositories.
+Gitlab, Open Source
+
+
+Key Terms:
+1. Repositories [ Repo] => A Folder Containing files
+2. Commit => A snapshot of your changes
+3. Branch => A Parallel Version of your repositories
+4. Pull Request [PR] => A request to merge code or file from one branch to another
+5. Clone => Copying a repo from Github to local machine.
+6. Fork => Creating a personal copy of someone else repo of Github.
+
+git --Version --> Version checking of git
+git config --global user.name "<Name>"
+git config --global user.email "<Email>"
+
+git init --> Initialization of repo
