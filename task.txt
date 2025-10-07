@@ -11,7 +11,7 @@
 11. Table Relationship [One-One, Many-One, Many-Many, One-Many]
 12. Multi-Threading and Multi-Processing
 13. Cryptography[Hashing --  SHA256, MD5] and Steganography.
-14. Github and Markdown Programming
+14. Github and Markdown Programming --> Partially Github Done
 15. Environment Variables [python-dotenv] ✅
 
 

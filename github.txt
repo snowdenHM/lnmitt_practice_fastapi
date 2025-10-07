@@ -20,6 +20,6 @@ git init --> Initialization of repo
 git add . --> All file git have to add into his history
 git add <filename> --> Add particular file to staging
 
-Local --> Stage --> Commit
+Local[Unstaging] --> Staging --> Commit
 
 git status --> To see your modified/staged files
