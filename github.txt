@@ -33,3 +33,6 @@ git stash drop stash@{id_number} --> Drop the particular stash id
 
 git clone <github_url>
 git clone <github_url> .
+git branch -->show all branches on the local system
+git checkout -->it would change the branch
+git checkout new_branch would go from main to new_branch
