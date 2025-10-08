@@ -33,3 +33,12 @@ git stash drop stash@{id_number} --> Drop the particular stash id
 
 git clone <github_url>
 git clone <github_url> .
+
+
+git branch -d <branch_name> --> To delete local branch we use this command 
+
+git branch ---> Check where the pointer is pointing to we generally avoid machine
+git branch <create_your_branch>
+git push -u origin <your_given_branch_name
+git branch -->show all branches on the local system
+git checkout branch_name-->it would change branch to branch_name ,make sure branch exists.
