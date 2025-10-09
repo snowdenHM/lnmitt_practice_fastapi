@@ -17,4 +17,6 @@ class User(UserBase):
     id: int
     is_active: bool
 
-    model_config = {"from_attributes": True}
+    # model_config = {"from_attributes": True}
+    class Config:
+        from_attributes=True
